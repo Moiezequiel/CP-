@@ -1,0 +1,11 @@
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\bin\Debug\Ejemplo_pratico_gui.exe.config
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\bin\Debug\Ejemplo_pratico_gui.exe
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\bin\Debug\Ejemplo_pratico_gui.pdb
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo pratico gui.csproj.AssemblyReference.cache
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo pratico gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo_pratico_gui.Properties.Resources.resources
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo pratico gui.csproj.GenerateResource.cache
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo pratico gui.csproj.CoreCompileInputs.cache
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo_pratico_gui.exe
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo_pratico_gui.pdb
+C:\Users\DEI-PC-LAB\Desktop\Labo3 Moisés Juárez\Ejemplo pratico gui\Ejemplo pratico gui\obj\Debug\Ejemplo_pratico_gui.Form1.resources
